@@ -313,5 +313,4 @@ dependencies:
   - pip:
     - pyqt5-sip==12.8.0
     - python-dotenv==0.13.0
-prefix: C:\Users\santiagoe\AppData\Local\Continuum\anaconda3
 
